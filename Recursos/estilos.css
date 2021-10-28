@@ -1,12 +1,12 @@
 @font-face {
     font-family: fuenteCarlos;
-    src: url(/Recursos/fuente/go3v2.ttf);
+    src: url(/recursos/fuente/go3v2.ttf);
 }
 
 body{
 
     background-color: blueviolet;
-    /*background-image: url("/Recursos/media/gengar.png");*/
+    /*background-image: url("/recursos/media/gengar.png");*/
     font-family: sans-serif;
     padding: 5em;
 }
