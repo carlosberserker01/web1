@@ -1,0 +1,60 @@
+@font-face {
+    font-family: fuenteCarlos;
+    src: url(/Recursos/fuente/go3v2.ttf);
+}
+
+body{
+
+    background-color: blueviolet;
+    /*background-image: url("/Recursos/media/gengar.png");*/
+    font-family: sans-serif;
+    padding: 5em;
+}
+
+.fondoblanco{
+    background-color: white;
+}
+
+.fondoazul{
+    background-color: rgb(29, 199, 211);
+}
+
+.fondonegro{
+    background-color: black;
+}
+
+.texto1{
+    text-align: center;
+    font-size: 4em;
+    color: darkgray;
+    
+}
+
+.texto2{
+    font-size: 1em;
+    color: white;
+    text-align: left;
+}
+
+.texto3{
+    font-size: 1em;
+    text-align: center;
+    color: white;
+    
+}
+
+.texto4{
+    font-size: 1em;
+    color: white;
+    text-align: left;
+}
+
+.imagenEstilo{
+    width: 100%;
+    text-align: center;
+}
+
+.bordeblanco{
+    border: 20px solid white;
+    border-radius: 20px;
+}
