@@ -1,0 +1,46 @@
+/*FONDOS*/
+
+.fondogeneral{
+    background-color: rgb(26, 188, 156);
+}
+
+.fondoverde{
+    background-color: rgb(46, 204, 113);
+}
+
+.fondorojo{
+    background-color: rgb(231, 76, 60);
+}
+
+.fondomorado{
+   background-color: rgb(155, 89, 182); 
+}
+
+/*LETRAS*/
+
+.tamañoletra{
+    font-size: 30px;
+}
+
+.letrasblancas{
+    color: white;
+}
+
+/*BORDES*/
+
+.bordeblanco{
+    border: 3px solid white;
+}
+
+/*TAMAÑOS RECUADROS*/
+.tamañorecuadro{
+    width: 100%;
+}
+
+.tamañorecuadro1{
+    width: 15%;
+}
+
+.tamañorecuadro2{
+    width: 30%;
+}

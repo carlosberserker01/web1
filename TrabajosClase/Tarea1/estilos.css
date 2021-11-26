@@ -1,0 +1,106 @@
+/*Fondo principal*/
+
+.fondoverde{
+
+    /*background-color: #1ABC9C;*/
+    background-color: rgb(26, 188, 156);
+
+}
+
+/*Colores de fondo ejercicio*/
+
+.fondorojo{
+
+    background-color: red;
+
+}
+
+.fondoazul{
+
+    background-color: aqua;
+
+}
+
+.fondoblanco{
+
+    background-color: white;
+
+}
+
+.fondovioleta{
+
+    background-color: blueviolet;
+
+}
+
+.fondoamarillo{
+
+    background-color: yellow;
+
+}
+
+.fondoverdeclaro{
+
+    background-color: chartreuse;
+
+}
+
+/*colores letra*/
+
+.letrasblancas{
+
+    color: white;
+
+}
+
+.tamañoletra{
+    font-size: 30px;
+}
+
+/*Bordes*/
+
+.bordegris1{
+
+    border: 8px outset rgb(128, 128, 128);
+
+}
+.bordegris2{
+
+    border: 8px outset rgb(128, 128, 128);
+
+}
+
+.bordegris3{
+
+    border: 15px outset rgb(128, 128, 128);
+
+}
+
+.bordegris4{
+
+    border: 2px outset rgb(128, 128, 128);
+
+}
+
+.bordenegro{
+
+    border: 1px outset black;
+
+}
+
+/*Tamaños*/
+
+.tamañorecuadro{
+
+    width: 100%;
+
+}
+
+/*margen*/
+
+.margen{
+
+    margin: -5px;
+    padding: -5px;
+
+}
